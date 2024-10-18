@@ -1,0 +1,61 @@
+{
+    "data": [
+      {
+          "id":1,
+          "question": "What is the capital of India ?",
+          "src":"https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/2560px-Flag_of_India.svg.png",
+          "choices": ["Split", "Osijek", "New Delhi", "Rijeka"],
+          "answer": "New Delhi"
+      },
+      {
+          "id":2,
+          "question": "What is the capital of Russian ?",
+          "choices": ["Moscow", "Ljubljana", "Maribor", "Koper"],
+          "answer": "Moscow"
+      },
+      {
+          "id":3,
+          "question": "What is the capital of Austria ?",
+          "choices": ["Graz", "Salzburg", "Innsbruck", "Vienna"],
+          "answer": "Vienna"
+      },
+      {
+          "id":4,
+          "question": "What is the capital of USA ?",
+          "choices": ["Belgrade", "Novi Sad", "Niš", "Washington"],
+          "answer": "Washington"
+      },
+      {
+          "id":5,
+          "question": "What is the capital of Bosnia and Herzegovina ?",
+          "src":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+          "choices": ["Mostar", "Sarajevo", "Banja Luka", "Tuzla"],
+          "answer": "Sarajevo"
+      },
+      {
+          "id":6,
+          "question": "What is the capital of United Kingdom ?",
+          "choices": ["Zalaegerszeg", "Eger", "London", "Budapest"],
+          "answer": "London"
+      },
+      {
+          "id":7,
+          "question": "What is the capital of Romania ?",
+          "choices": ["Bucharest", "Craiova", "Constanta", "Braila"],
+          "answer": "Bucharest"
+      },
+      {
+          "id":8,
+          "question": "What is the capital of Germany ?",
+          "choices": ["Wolfsburg", "Munich", "Berlin", "Frankfurt"],
+          "answer": "Berlin"
+      },
+      {
+          "id":9,
+          "question": "What is the capital of Australia ?",
+          "choices": ["Wolfsburg", "Canberra", "Berlin", "Frankfurt"],
+          "answer": "Canberra"
+          
+      }
+    ]
+  }
